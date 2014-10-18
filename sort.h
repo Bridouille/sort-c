@@ -1,13 +1,3 @@
-/*
-** sort.h for sort.h in /home/bridou_n/test/ex
-** 
-** Made by Nicolas Bridoux
-** Login   <bridou_n@epitech.net>
-** 
-** Started on  Sat Oct 18 19:20:00 2014 Nicolas Bridoux
-** Last update Sat Oct 18 19:25:56 2014 Nicolas Bridoux
-*/
-
 #ifndef SORT_H_
 # define SORT_H_
 
